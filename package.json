@@ -1,0 +1,11 @@
+{
+  "name": "Portfolio-Web",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/RobertoGarayoa26/Portfolio-Web.git",
+  "author": "Roberto Garayoa <roberto_garayoaf@outlook.es>",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.0.0-beta.2"
+  }
+}
